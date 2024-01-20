@@ -5,7 +5,7 @@ int main () {
 int a.b.c.d ;
 
 cin >> a,b,c,d;
-  cout<<"hi";
+  cout<<"h";
 m=a+b+c+d;
 n=a-b-c-d;
 o=a/b/c/d;
