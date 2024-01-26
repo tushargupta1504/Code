@@ -5,5 +5,5 @@ int main ()
 
 {
   cout<<"hi";
-  ji
+  
 }
