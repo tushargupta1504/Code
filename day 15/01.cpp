@@ -5,5 +5,4 @@ int main ()
 
 {
   cout<<"hi";
-  
 }
